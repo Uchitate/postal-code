@@ -1,0 +1,9 @@
+setting:
+  region: ap-northeast-1
+  s3:
+    bucket: test-bucket
+    file: tstfile.txt
+  spring:
+    main:
+      show-banner: false
+      log-startup-info: false
